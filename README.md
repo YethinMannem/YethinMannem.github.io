@@ -1,2 +1,0 @@
-# YethinMannem.github.io
-Portifolio

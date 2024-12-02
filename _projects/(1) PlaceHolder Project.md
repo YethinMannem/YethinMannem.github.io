@@ -3,7 +3,6 @@ name: WorkMap - Labour Trend Analysis
 tools: [ETL, Azure, Spark, Azure Data Dactory, Databricks, SQL, PowerBI]
 image: https://teleportmanpower.com/wp-content/uploads/2023/10/Market-job-Analysis-1024x576.webp    
 description: Designed and implemented a scalable data engineering pipeline integrating NAICS and BLS datasets to analyze labor market trends. Developed insights on employment, wage growth, and industry performance, enabling data-driven decision-making for policymakers and businesses. Focused on automation, real-time updates, and high-performance data processing for actionable insights.
-external_url: https://www.google.com
 --- 
 
 # WorkMap - Labour Trend Analysis

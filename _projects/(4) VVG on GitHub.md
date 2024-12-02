@@ -1,5 +1,5 @@
 ---
-name: Coding Like Vincent Van Gogh
+name: JYP Compiler
 tools: [Support, Author, VVG]
 image:
 description: Show some support by following me!

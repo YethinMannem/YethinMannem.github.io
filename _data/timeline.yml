@@ -1,29 +1,17 @@
 - title: Graduate Student, Computer Science, North Dakota State University, USA
   from: August 2024
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: At North Dakota State University, I am pursuing a Master’s in Computer Science, deepening my expertise in advanced computing concepts and emerging technologies. My coursework includes areas such as Advanced Database Management, Data Engineering, Machine Learning, Software Engineering, and Cloud Computing, which have significantly expanded my technical acumen and problem-solving skills. Through hands-on projects and research, I have developed a strong understanding of modern computing paradigms and their real-world applications. 
 
 - title: Software Engineer, GEP, IND
   from: August 2023
   to: July 2024
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a Full Stack Software Engineer, I have hands-on experience in designing and implementing efficient, scalable solutions using technologies like C#, .NET, SQL, REST APIs, MongoDB, and Angular. I successfully designed and developed an end-to-end Delta Migration Tool using the MEAN stack, reducing processing time by 50% and enhancing operational efficiency. I also created a Metrics Dashboard to provide real-time insights into migration progress, improving transparency and decision-making. My work includes identifying and resolving UI and API bugs to improve application stability and user experience. With a focus on quality, I implemented robust unit testing and an automation suite using Cypress, achieving 100% test case coverage. I actively engage in code reviews and user testing cycles, ensuring all features are functional, reliable, and user-friendly.
 
 - title: Intern Technology, GEP, IND
   from: May 2023
   to: July 2024
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a Technology Intern, I developed a collaborative Markdown Text Editor using the MERN stack, YJS, and WebRTC, enabling real-time peer-to-peer communication for multiple users. I also created an automation testing suite with Cypress, achieving over 90% test case coverage and documenting feature improvements. These projects highlight my skills in full-stack development, real-time systems, and quality assurance.
 
 - title: Undergraduate Student, Computer Science, IIT Tirupati, IND
   from: May 2019

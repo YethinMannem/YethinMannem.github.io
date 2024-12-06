@@ -8,11 +8,14 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+I am currently pursuing my Masters at North Dakota State University. I worked as a Software Engineer with a passion for solving problems in real world and I enjoy the brainstorming and collaboration to bring ideas into reality. Having worked on problems at scale I am experienced in delivering high quality software and robust systems.
+
+Apart from work I enjoy working out and sometimes learning music. I also keep exploring things related to entrepreneurship and finance. If you liked my profile, feel free to reach out to me happy to connect!
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+<!-- {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %} -->
 </div>
 
 <div class="row">
